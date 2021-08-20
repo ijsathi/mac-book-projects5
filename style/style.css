@@ -1,0 +1,18 @@
+.button:hover
+{
+    transition: 1s;
+    background: rgb(42, 177, 240);
+    color: white;
+}
+.button2:hover
+{
+    transition: 1s;
+    background: rgb(4, 54, 112);
+    color: white;
+}
+.button3:hover
+{
+    transition: 1s;
+    background: rgb(196, 193, 34);
+    color: white;
+}
